@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson01", "Lesson01", "{F516D38E-CFDD-4D0D-AB1A-4FC6A95EF199}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddlewarePractical", "MiddlewarePractical\MiddlewarePractical.csproj", "{E255AD1C-379E-4B5A-8224-A1DFA7BE742F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E255AD1C-379E-4B5A-8224-A1DFA7BE742F} = {F516D38E-CFDD-4D0D-AB1A-4FC6A95EF199}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E255AD1C-379E-4B5A-8224-A1DFA7BE742F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E255AD1C-379E-4B5A-8224-A1DFA7BE742F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E255AD1C-379E-4B5A-8224-A1DFA7BE742F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E255AD1C-379E-4B5A-8224-A1DFA7BE742F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
